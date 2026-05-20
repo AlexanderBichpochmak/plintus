@@ -1,2 +1,2 @@
-HW https://github.com/AlexanderBichpochmak/plintus/releases/download/1.2.1HWFT/Plintus.Visuals.1.2.1-HW.jar
-FT https://github.com/AlexanderBichpochmak/plintus/releases/download/1.2.1HWFT/Plintus.Visuals.1.2.1-FT.jar
+HW https://github.com/AlexanderBichpochmak/plintus/releases/download/1.2.1.1HWFT/Plintus.Visuals.1.2.1-HW.jar
+FT https://github.com/AlexanderBichpochmak/plintus/releases/download/1.2.1.1HWFT/Plintus.Visuals.1.2.1-FT.jar
